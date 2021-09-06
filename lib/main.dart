@@ -1,5 +1,6 @@
-import 'package:apiproject/single.dart';
 import 'package:flutter/material.dart';
+// import 'package:apiproject/SingleUser.dart';
+import 'package:apiproject/ListUser.dart';
 
 void main() {
   runApp(MyApp());
@@ -14,7 +15,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: single(),
+      home: ListUser(),
     );
   }
 }
