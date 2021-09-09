@@ -1,4 +1,4 @@
-# APIproject
+# API project
 
 A new Flutter project.
 
@@ -7,7 +7,7 @@ A new Flutter project.
 This project is a starting point for a Flutter application.
 http package is used.
 
-One of the resources for beginner to get you started if this is your first Flutter project:
+One of the resources for beginner to get start first Flutter project:
 
 - reqres.in
 
